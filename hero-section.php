@@ -97,7 +97,7 @@
             <p>Tempat berkumpulnya umat dalam menuntut ilmu, mempererat ukhuwah, dan menebar kebaikan. Bersama kita tumbuh dalam keimanan dan amal sosial.</p>
             <div class="cta-buttons">
               <a href="login.php" class="btn-primary">Login</a>
-              <a href="#" class="btn-secondary">Lihat Kegiatan</a>
+              <a href="#featured-activities" class="btn-secondary">Lihat Kegiatan</a>
             </div>
           </div>
         </div>

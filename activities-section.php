@@ -20,13 +20,15 @@
 
       <!-- Items -->
       <div class="row g-4 isotope-container">
+
+      
         <!-- Item 1 -->
         <div class="col-lg-6 isotope-item filter-dakwah" data-aos="zoom-in" data-aos-delay="100">
           <div class="program-item bg-white shadow-lg rounded-lg overflow-hidden">
             <div class="program-badge bg-blue-600 text-white text-xs px-3 py-1 absolute m-3 rounded">Dakwah</div>
             <div class="row g-0">
               <div class="col-md-4">
-                <img src="assets/img/kegiatan/kajian-rutin.jpg" class="img-fluid" alt="Kajian Rutin">
+                <img src="assets/img/majelis/kajian-rutin.jpg" class="img-fluid" alt="Kajian Rutin">
               </div>
               <div class="col-md-8 p-4">
                 <h3 class="text-xl font-semibold">Kajian Rutin Majelis</h3>
@@ -43,7 +45,7 @@
             <div class="program-badge bg-green-600 text-white text-xs px-3 py-1 absolute m-3 rounded">Sosial</div>
             <div class="row g-0">
               <div class="col-md-4">
-                <img src="assets/img/kegiatan/berbagi-takjil.jpg" class="img-fluid" alt="Berbagi Takjil">
+                <img src="assets/img/majelis/berbagi-takjil.jpg" class="img-fluid" alt="Berbagi Takjil">
               </div>
               <div class="col-md-8 p-4">
                 <h3 class="text-xl font-semibold">Berbagi Takjil Ramadhan</h3>
@@ -60,7 +62,7 @@
             <div class="program-badge bg-yellow-600 text-white text-xs px-3 py-1 absolute m-3 rounded">Edukasi</div>
             <div class="row g-0">
               <div class="col-md-4">
-                <img src="assets/img/kegiatan/sekolah-sunnah.jpg" class="img-fluid" alt="Sekolah Sunnah">
+                <img src="assets/img/majelis/sekolah.jpg" class="img-fluid" alt="Sekolah Sunnah">
               </div>
               <div class="col-md-8 p-4">
                 <h3 class="text-xl font-semibold">Sekolah Sunnah Anak</h3>
@@ -77,7 +79,7 @@
             <div class="program-badge bg-green-600 text-white text-xs px-3 py-1 absolute m-3 rounded">Sosial</div>
             <div class="row g-0">
               <div class="col-md-4">
-                <img src="assets/img/kegiatan/bakti-sosial.jpg" class="img-fluid" alt="Bakti Sosial">
+                <img src="assets/img/majelis/Bakti-Sosial.jpg" class="img-fluid" alt="Bakti Sosial">
               </div>
               <div class="col-md-8 p-4">
                 <h3 class="text-xl font-semibold">Bakti Sosial & Donasi</h3>
@@ -94,7 +96,7 @@
             <div class="program-badge bg-yellow-600 text-white text-xs px-3 py-1 absolute m-3 rounded">Edukasi</div>
             <div class="row g-0">
               <div class="col-md-4">
-                <img src="assets/img/kegiatan/tour-alam.jpg" class="img-fluid" alt="Tour Alam Islami">
+                <img src="assets/img/majelis/tour.jpg" class="img-fluid" alt="Tour Alam Islami">
               </div>
               <div class="col-md-8 p-4">
                 <h3 class="text-xl font-semibold">Tour Alam Islami</h3>
